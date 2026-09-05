@@ -1,6 +1,7 @@
 """
-Test correspondence between current person registry and diet_persons scraped from the bio books.
+Triangulate person data from different sources.
 """
+from glob import glob
 from trainerlog import get_logger
 import json
 import os
@@ -18,16 +19,19 @@ LOGGER = get_logger(name=f"{__file__.split("/")[-1][:-3]}")
 
 class RegistryBiobookCorrespondence(unittest.TestCase):
     """
-    Compares person data scraped from biobooks with person data in the person registry.
+    Compares person data scraped from biobooks with person data in the person registry and wikidata.
     """
     @classmethod
     def setUpClass(cls):
         with open("data/person-registry.json", 'r') as regin:
             cls.registry = json.load(regin)
         cls.bb_df = pl.read_csv("test/data/diet_individuals.tsv", separator="\t")
+        cls.wid_df = pl.read_csv("test/data/scraped-wikidata-ids.csv")
         cls.write_diagnostics = os.environ.get("WRITE_TEST_DIAGNOSTICS")
         cls.unmatched_reg_entries = set()
         cls.unmatched_BB_entries = set()
+        cls.unmatched_wd_entries = set()
+        cls.unmatched_wp_entries = set()
 
 
     @classmethod
@@ -41,8 +45,16 @@ class RegistryBiobookCorrespondence(unittest.TestCase):
             unm_bb = pl.DataFrame([(name,) for name in sorted(cls.unmatched_BB_entries)],
                                   schema=["name"],
                                   orient="row")
+            unm_wp = pl.DataFrame([x for x in cls.unmatched_wp_entries],
+                                  schema=["wiki_id"],
+                                  orient="row")
+            unm_wd = pl.DataFrame([x for x in cls.unmatched_wd_entries],
+                                  schema=["wiki_id"],
+                                  orient="row")
             unm_reg.sort("name").write_csv("test/results/unmatched-person-register-entries.csv", separator=";")
             unm_bb.write_csv("test/results/unmatched-biobook-entries.csv", separator=";")
+            unm_wd.write_csv("test/results/unmatched-wikidata-wdids.csv", separator=";")
+            unm_wp.write_csv("test/results/unmatched-wikipediaa-wdids.csv", separator=";")
             LOGGER.info(" --> DONE.")
         else:
             LOGGER.info("Test finished. Not writing any diagnostics.")
@@ -169,6 +181,34 @@ class RegistryBiobookCorrespondence(unittest.TestCase):
         LOGGER.info(f"Unmatched Registry entries: {len(cls.unmatched_reg_entries)}")
         LOGGER.train("====================")
 
+
+    def test_compare_wiki_ids(self):
+        """
+        Compare wiki IDs scraped from wikidata and those via wikipedia
+        """
+        cls = self.__class__
+        from_wikipedia = set()
+        for f in glob("data/sources/wikipedia/*.csv"):
+            df = pl.read_csv(f, separator=";")
+            wids = set(df["wikidata_id"].drop_nulls()) - {""}
+            for wid in wids:
+                from_wikipedia.add(wid)
+        LOGGER.train("====================")
+        LOGGER.info("Compare wiki_ids")
+        LOGGER.info(f"Wiki_ids via wikidata: {self.wid_df.height}")
+        LOGGER.info(f"Wiki_ids via wikipedia: {len(from_wikipedia)}")
+        LOGGER.train("====================")
+
+        from_wikidata = set(self.wid_df["wiki_id"])
+        cls.unmatched_wp_entries = from_wikipedia-from_wikidata
+        cls.unmatched_wd_entries = from_wikidata-from_wikipedia
+
+        LOGGER.train("====================")
+        LOGGER.info("Wiki ID unions")
+        LOGGER.info(f"Matched across sources: {len(from_wikipedia & from_wikidata)}")
+        LOGGER.info(f"Unmatched from wikipedia: {len(cls.unmatched_wp_entries)}")
+        LOGGER.info(f"Unmatched from wikidata: {len(cls.unmatched_wd_entries)}")
+        LOGGER.train("====================")
 
 
 
