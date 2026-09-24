@@ -1,501 +1,1045 @@
-wiki_id
-Q23040901
-Q20645281
-Q105663208
-Q106766138
-Q105702538
-Q105751892
-Q105751971
-Q105086443
-Q105620583
-Q105350970
-Q105454655
-Q105636269
-Q106240921
-Q105432166
-Q105702528
-Q105702511
-Q105086441
-Q105630056
-Q61785001
-Q105771904
-Q105077447
-Q105663020
-Q105702549
-Q105454264
-Q106323600
-Q105620615
-Q105629807
-Q106323615
-Q106543049
-Q333202
-Q2874754
-Q107994310
-Q106766155
-Q100784884
-Q103338093
-Q104247447
-Q108043655
-Q106481508
-Q106919282
-Q101184260
-Q73762303
-Q20736826
-Q104172922
-Q106906810
-Q105943506
-Q107337685
-Q101111233
-Q104845206
-Q107405251
-Q108067054
-Q103841120
-Q105751921
-Q61103320
-Q104413212
-Q107172253
-Q101583701
-Q104246766
-Q106967408
-Q100780792
-Q107978468
-Q104145191
-Q107750261
-Q105432181
-Q60484738
-Q106919251
-Q104550073
-Q101184315
-Q107994312
-Q107994309
-Q105337195
-Q110437866
-Q105432349
-Q104235961
-Q23798941
-Q105086436
-Q105454297
-Q100851697
-Q102355437
-Q105432270
-Q104549842
-Q105636267
-Q104622031
-Q105337210
-Q106342382
-Q105620569
-Q105756020
-Q105629965
-Q104627338
-Q100781792
-Q18688429
-Q105337189
-Q108003424
-Q105350977
-Q106812053
-Q101009349
-Q105629945
-Q101503195
-Q107738938
-Q108146071
-Q106812031
-Q105943504
-Q104588904
-Q104143745
-Q105946629
-Q105470731
-Q107012251
-Q105350990
-Q106773949
-Q107069611
-Q105069782
-Q105432284
-Q105751911
-Q102666560
-Q106613408
-Q104631352
-Q107860689
-Q106773926
-Q105086430
-Q104627334
-Q63432691
-Q103893723
-Q106239258
-Q106811973
-Q103505506
-Q107201195
-Q104549968
-Q102172744
-Q105645260
-Q109774866
-Q130753710
-Q104145194
-Q105454605
-Q106323645
-Q106989489
-Q101423239
-Q104549898
-Q107323180
-Q104188766
-Q104899495
-Q101807585
-Q104845164
-Q104627331
-Q106319490
-Q104176923
-Q106766187
-Q104995605
-Q104550141
-Q101332452
-Q101084740
-Q105337193
-Q105751901
-Q105702517
-Q108067086
-Q104602798
-Q105337342
-Q106766146
-Q104621945
-Q100802472
-Q104765569
-Q105432172
-Q104995649
-Q105771893
-Q106224100
-Q105636273
-Q61103785
-Q105645203
-Q107750248
-Q106766175
-Q107303731
-Q108003430
-Q101583769
-Q108122282
-Q101243566
-Q105771897
-Q106239181
-Q104899489
-Q110322639
-Q106766158
-Q106989473
-Q105077448
-Q105751957
-Q105077451
-Q108122284
-Q106481509
-Q106319479
-Q107978487
-Q101413585
-Q105629703
-Q105629779
-Q105636272
-Q106812047
-Q105629755
-Q105955066
-Q17381212
-Q104602803
-Q100898575
-Q101332821
-Q104549902
-Q104588847
-Q107918233
-Q106812042
-Q107797800
-Q106239197
-Q103505600
-Q104596836
-Q105037566
-Q106224054
-Q105756269
-Q103839739
-Q107978476
-Q107405255
-Q100784667
-Q106319495
-Q106239238
-Q104602790
-Q104549905
-Q106239289
-Q106811986
-Q105432288
-Q105351022
-Q23798909
-Q106323484
-Q105771896
-Q105751952
-Q107968776
-Q108082117
-Q106936586
-Q108056302
-Q107968784
-Q106319482
-Q104995689
-Q120177852
-Q106319475
-Q104602792
-Q106906815
-Q106323467
-Q102436290
-Q104172930
-Q105645349
-Q106967411
-Q106967477
-Q105751914
-Q104551851
-Q106342386
-Q106224104
-Q105432260
-Q102057607
-Q106239253
-Q105751910
-Q106967413
-Q101243567
-Q106932779
-Q103893624
-Q23731503
-Q104602800
-Q105045039
-Q108003418
-Q104550354
-Q104663900
-Q100799794
-Q104622018
-Q106239201
-Q107006384
-Q105069786
-Q104550059
-Q104551801
-Q105751926
-Q104631461
-Q104588856
-Q107978493
-Q106323634
-Q102436273
-Q105620575
-Q104143753
-Q104631384
-Q105337286
-Q105045048
-Q102182354
-Q105751918
-Q106239295
-Q113394084
-Q104622014
-Q100784583
-Q106241016
-Q105645300
-Q105064081
-Q107323179
-Q104631398
-Q101807788
-Q105751946
-Q105337240
-Q105351041
-Q106323491
-Q101558602
-Q106817475
-Q106323495
-Q105946641
-Q104143750
-Q102436312
-Q103893813
-Q106989471
-Q107323176
-Q105454314
-Q105432334
-Q106319470
-Q104007039
-Q100988071
-Q6218225
-Q100781825
-Q106945193
-Q104721213
-Q104143705
-Q105037582
-Q107968779
-Q104381600
-Q107797659
-Q108067063
-Q106766167
-Q107172247
-Q106967418
-Q105337307
-Q105620539
-Q104631391
-Q104721230
-Q102436260
-Q107750239
-Q105454349
-Q105701552
-Q105620551
-Q104176927
-Q105350996
-Q104235951
-Q106239316
-Q107012263
-Q119790486
-Q105701091
-Q105756265
-Q106323596
-Q105337207
-Q104551775
-Q105454409
-Q105432305
-Q108067057
-Q106240876
-Q105069803
-Q105432156
-Q105454506
-Q105432265
-Q104143749
-Q61103302
-Q107086199
-Q104413208
-Q100701345
-Q105432328
-Q107201208
-Q23769558
-Q107172255
-Q106811980
-Q106812004
-Q101069591
-Q105037599
-Q105045042
-Q104631447
-Q105756276
-Q105756258
-Q101034212
-Q105620614
-Q105629732
-Q120177931
-Q107860706
-Q105751943
-Q108122287
-Q101334101
-Q105337332
-Q105337241
-Q105702519
-Q105756262
-Q107400155
-Q102322869
-Q104172920
-Q101583718
-Q64952323
-Q107172256
-Q108122302
-Q105771906
-Q104995671
-Q105337256
-Q104622533
-Q104631373
-Q105771903
-Q107172250
-Q105751890
-Q105454524
-Q65230522
-Q106319464
-Q101332637
-Q105432236
-Q105629715
-Q101214405
-Q101333744
-Q105064084
-Q108067058
-Q100800012
-Q104995705
-Q104995620
-Q105752133
-Q106239210
-Q100799960
-Q106490275
-Q105956704
-Q105751977
-Q105751942
-Q105069788
-Q104631415
-Q106272576
-Q106239241
-Q106319511
-Q101759185
-Q105454580
-Q104721229
-Q104551793
-Q106705870
-Q105771901
-Q104549857
-Q104007062
-Q105663134
-Q105636268
-Q105337243
-Q107860656
-Q30223957
-Q105432364
-Q105048330
-Q104995553
-Q105454545
-Q105432396
-Q105064076
-Q109826711
-Q103979347
-Q106272578
-Q106223979
-Q106223951
-Q105701318
-Q104007019
-Q104048304
-Q105951055
-Q107086202
-Q105620414
-Q100870519
-Q105432176
-Q105069780
-Q105663122
-Q107968777
-Q107751309
-Q106223973
-Q106906821
-Q102046756
-Q108122298
-Q106319466
-Q105620591
-Q101214375
-Q100997944
-Q104150518
-Q104627343
-Q108082107
-Q107797860
-Q104995579
-Q56403348
-Q106239323
-Q104627328
-Q109826718
-Q104622523
-Q105771905
-Q106967420
-Q108043658
-Q106319509
-Q105045043
-Q105454465
-Q105337315
-Q105086423
-Q104627325
-Q105756267
-Q102046760
-Q104602796
-Q102968763
-Q105045044
-Q104248045
-Q105432376
-Q105752135
-Q105953037
-Q107258246
-Q107337677
-Q104551840
-Q105432314
-Q105337309
-Q105701075
-Q107918040
-Q106224079
-Q106323598
-Q105620413
-Q105751963
+wiki_id,name
+Q23040901,Matti Rossi
+Q20645281,Suomen suuriruhtinaskunnan valtiopäivämies
+Q106766138,Herman Adlercreutz
+Q105663208,Matti Pennanen
+Q105751971,David Savolainen
+Q105454655,Matti Koponen
+Q105702538,Antti Mikkola
+Q105350970,Lauri Keränen
+Q105086443,Heikki Hannikainen
+Q105636269,Vilho Penttilä
+Q61785001,Nils Otto Nordenskiöld
+Q105751892,Heikki Tikkanen
+Q106240921,Johan Strömberg
+Q105620583,Anton Mäkelä
+Q105702511,Pekka Tiainen
+Q105432166,Heikki Konttinen
+Q105086441,Antti Halonen
+Q105630056,Johan Pettersson
+Q105702528,Jaakko Myllylä
+Q105771904,Antti Mattila
+Q105663020,Lauri Tiainen
+Q105077447,Antti Haikonen
+Q105702549,Antti Miettinen
+Q106323600,Pekka Leppänen
+Q105454264,Mikko Lampinen
+Q106323615,Olli Mustonen
+Q105629807,Antti Pulkkinen
+Q105620615,Heikki Poutanen
+Q106543049,Alexander Aminoff
+Q333202,Knut Hugo Pipping
+Q2874754,Axel Julius De la Gardie
+Q107994310,Georg Kristian Oker-Blom
+Q100784884,Gerhard Pehr Alopaeus
+Q108043655,Lars Oskar Wilhelm af Heurlin
+Q103338093,Josef Frans Oskar Idestam
+Q106766155,Hans Henrik Brummer
+Q104247447,Karl Jakob Grönberg
+Q73762303,Johan Schaefer
+Q104172922,Otto Fabian Nimrod Granfelt
+Q20736826,Adolf Waldemar Wallensköld
+Q106481508,Lars August Sackleen
+Q106919282,Arvid Sanmark
+Q101184260,Johan Henrik Ilvonen
+Q106906810,Carl Otto Alexander Munck
+Q103841120,Gabriel Johan Masalin
+Q105943506,Rurik Kellgren
+Q105751921,Henrik Svanberg
+Q107405251,Armas Gideon Järnefelt
+Q107337685,Herman Maximilian Molander
+Q101111233,Eugen Idestam
+Q61103320,Henrik Eliel Wegelius
+Q108067054,Alexander Edvard von Wendt
+Q104631352,Johan Lundström
+Q105337189,Juho Jalkanen
+Q104246766,Benjamin Sulin
+Q104845206,Otto Vilhelm Furuhjelm
+Q23798941,Gabriel Gråå
+Q104899495,Robert Emil Hisinger
+Q101583701,Einar Ossian Schauman
+Q107750261,Alexander Rokassowskij
+Q106919251,Jost Wilhelm Hugo von Qvanten
+Q106967408,Georg von Willebrand
+Q101332452,Karl Johan Lund
+Q101009349,Ivar Rudolf Forsman
+Q107172253,Axel Edvard Wasastjerna
+Q105432181,Kaarle Komonen
+Q104145191,Otto Mauritz Nordström
+Q105086436,Adam Halkilahti
+Q105454297,Lassi Laitinen
+Q106773949,Carl Axel Gustaf von Christierson
+Q105337195,Juho Jormakka
+Q107994309,August von Nandelstadh
+Q104550073,Karl Henrik Adlercreutz
+Q101184315,Josua Johansson
+Q105432349,Kustaa Hissa
+Q104549842,Robert Blåfield
+Q105636267,August Perho
+Q104622031,Pietari Haaranen
+Q105337210,Eeli Juntunen
+Q130753710,Gabriel Arctopolitanus
+Q108003424,Fabian Wilhelm von Schantz
+Q100780792,Arno Reuter
+Q100851697,Otto Johan Blåfield
+Q102355437,Frans Henrik af Björksten
+Q106342382,Taneli Kurkela
+Q105629965,Juhana Pohjalainen
+Q105620569,Aatu Okko
+Q105756020,Juho Zitting
+Q100781792,Per Ståhlfot
+Q104627338,Juhana Koivisto
+Q105432270,Jaakko Hartonen
+Q107069611,Alexander Wilhelm Lagerborg
+Q107738938,Fredrik Magnus Stackelberg
+Q108146071,Fredrik Jonas Klingstedt
+Q105629945,Tuomas Poikela
+Q101503195,Juhana Emil Sandelius
+Q104995605,Gabriel Anttila
+Q104413212,Karl Fredrik Stenbäck
+Q107860689,Karl Frans Johan Schauman
+Q106773926,Gabriel Benjamin Cronstedt
+Q108056302,Johan Emil Furuhjelm
+Q101413585,Karl Woldemar Nystén
+Q60484738,Kasper Hjalmar Wrede
+Q105645203,Juho Riipinen
+Q106812053,Ivar Theodor von Hellens
+Q106812031,Edvard Robert Ludvig Hedenberg
+Q105943504,Ferdinand Lemström
+Q105946629,Stefan Träskelin
+Q104588904,Mårten Fredrik Ringbom
+Q105470731,Tuomas Laurikainen
+Q107012251,Axel Theodor Örnhjelm
+Q104143745,Nils Jakob Juselius
+Q105350990,Vihtori Hosio
+Q100802472,Adiel Bergroth
+Q103505506,Fredrik Vilhelm Fredrikson
+Q107201195,Otto Alfred von Fieandt
+Q105432260,Iisakki Hannuksela
+Q106224104,Nikolai Lisitzin
+Q107994312,Johannes Eberhard von Schantz
+Q63432691,Johan Kristian Lampén
+Q103893723,Knut Theodor Pipping
+Q105086430,Adolf Halinen
+Q104627334,Elias Sipuli
+Q106989473,Gösta August Sackleen
+Q110437866,Jost Joachim Pipping
+Q104235961,Anders Israel Cajander
+Q101423239,Hjalmar Oker-Blom
+Q106239258,Carl Nummelin
+Q104145194,Tomas Erik Robert Adolf Adlercreutz
+Q105629755,Antti Punttala
+Q104549968,Salomon Jakob Finckenberg
+Q105645260,Kaarlo Fabian Rautajoki
+Q102172744,Gustaf Robert Böök
+Q109774866,Carl Alfred Uggla
+Q106811973,Pehr Adolf Alf af Forselles
+Q107978468,Nikolai Adolf Reinhold Munck
+Q104845164,Karl Gustaf Teetgren
+Q106319490,Erik Johan Savón
+Q104627331,Pietari Wästi
+Q104622014,Henrik Waris
+Q105350977,Anders Keto
+Q101084740,Salomon Hirvinen
+Q17381212,August Ferdinand Juselius
+Q104621945,Tuomas Seppälä
+Q107323180,Fredrik Hjalmar Stackelberg
+Q104549898,Hans Petter Winge
+Q104188766,August Fredrik Jansson
+Q106613408,Oscar Johan Mechelin
+Q106239289,Oskar Hedlund
+Q105432334,Johan Viktor Hildén
+Q106766187,Carl Georg Estlander
+Q104176923,Sebastian von Knorring
+Q105751911,Ferdinand Taskinen
+Q105432284,Brynolf Roiha
+Q108003430,Gustaf Fredrik Rotkirch
+Q104765569,Knut Fredrik Durchman
+Q105771897,August Samuel Nordström
+Q106239181,Frans Sumelius
+Q105337307,Fredrik Johan Inberg
+Q105620539,Abraham Patja
+Q104631391,Simon Louko
+Q102436260,Karl Edvard Lindeqvist
+Q104721230,Gustaf Lemström
+Q104602792,Johan Ascholin
+Q106319479,Gösta Lindblom
+Q105432172,Kaarlo Kokkonen
+Q104995649,Petter Akola
+Q105771893,Juho Pietari Sahlgren
+Q106224100,Mathias Jaatinen
+Q105636273,Kustaa Pellonpää
+Q105069782,Gustaf Viktor Eklund
+Q106766175,Adolf Constantin Mechelin
+Q101807585,Ernst Wilhelm Tegengren
+Q105432328,Konstantin Saarenpää
+Q106342386,Konstantin Lojander
+Q105751914,Frans Tanner
+Q104551851,Axel Herman Hästesko af Målagård
+Q104899489,Fredrik Sneckenström
+Q105454605,Juho Kotilainen
+Q106989489,Waldemar Stjerncreutz
+Q106323645,Jonas Vitikkala
+Q104172930,Clas Collan
+Q101243566,Viktor Konsin
+Q106239197,Georg Rosenius
+Q103505600,Otto Robert Vilhelm Tandefelt
+Q107303731,Lilli Wilhelm Schildt
+Q61103785,Aatos Schildt
+Q107750248,Pehr Ivar Ekbom
+Q105629703,Gustaf Adolf Qwarnström
+Q105629779,Antti Juho Pulkkinen
+Q105636272,Johan Henrik Peltola
+Q106812047,Harald August af Hellén
+Q64952323,Karl Efraim Carpelan
+Q104550141,Jonas af Enehjelm
+Q108122282,Georg Nordenswan
+Q105037582,Gustaf Samuel Bredenberg
+Q107968779,Alfred Oskar von Bonsdorff
+Q104596836,Fredrik Ståhle
+Q18688429,Karl Fabritius
+Q105751918,Viktor Vilhelm Söderholm
+Q106239295,Axel Georg Henrik Grönvik
+Q113394084,Matti Pikkarainen
+Q106812042,Hugo Oskar Alexander Magnus von Heideman
+Q106766158,Karl Wilhelm Bruncrona
+Q105337193,Anders Johan Jansson
+Q105751901,Eerik Tensikkala
+Q105702517,Johan Mynttinen
+Q105337342,Aksel Hynninen
+Q108067086,Bror Albert von Fieandt
+Q104602798,Jakob Elias Granberg
+Q105955066,Alarik Achrén
+Q102666560,Robert Ek
+Q107968784,Wolmar af Heurlin
+Q106319482,Hjalmar Johan Gabriel Grahn
+Q105432288,Heikki Hassinen
+Q105351022,Kustaa Huostila
+Q104048304,Reinhold Brix von Böningh
+Q105951055,Carl Grundfeldt
+Q100870519,Petter Adolf Brofeldt
+Q105620414,Carl Fredrik Pousar
+Q107086202,Torsten Fredrik Zacharias Nordenswan
+Q107405255,Fredrik Wilhelm Hugo von Qvanten
+Q100784667,Kurt af Enehielm
+Q106319495,Frans Henrik Malin
+Q106239238,Johan Gustaf Wikeström
+Q101583769,Henrik Edvard Rauramo
+Q101332821,Frans Oskar Möller
+Q106906815,Arthur Pippingsköld
+Q106323467,Matti Retula
+Q102436290,Jakob Cederberg
+Q106323491,Juho Koivisto
+Q104627328,Nils Nyman
+Q109826718,Johan Olof Reinhold von Törne
+Q106967418,Gustaf Ivar Blåfield
+Q108067063,Knut Emil von Schantz
+Q106766167,Ernst Silfverhjelm
+Q107172247,Woldemar Alfred Ludvig Rehbinder
+Q106319475,Herman Roschier
+Q105077448,Karl Henrik Hagman
+Q105751957,Juhana Sivenius-Sipilä
+Q108122284,Georg Fredrik Pistolekors
+Q105077451,Karl Johan Hahl
+Q103893624,Adolf Fredrik Josef von Kothen
+Q101243567,Erik Karanen
+Q106932779,Constantin Runo Georg von Schoultz
+Q105337225,Abel Jäntti
+Q106239220,Oskar Backman
+Q105701209,Gustav Vanha-Seppälä
+Q106223967,Olof Blom
+Q100898575,Kaarlo Juhana Inberg
+Q106967477,Edvard Alexander Ramsay
+Q110322639,Johan Reinhold Taube nuorempi
+Q106705870,Rabbe Gustaf Otto Wrede
+Q106239201,Anshelm Nordman
+Q107006384,James Mauritz Tigerstedt
+Q100799794,Anton Viktor Appelqvist
+Q104622018,Pietari Hoffrén
+Q105069786,Niilo Aleksander Grundström
+Q104550059,Joakim Fredrik Lindtman
+Q104551801,Bernt Gustaf Eneskjöld
+Q105037566,Anders Blomqvist
+Q105701091,Kustaa Ruhanen
+Q106241016,Juho Nissinen
+Q105645300,Semen Ratinen
+Q107323179,Gustaf Emil Alfons Spåre
+Q104631398,Henrik Tervonen
+Q105064081,John Flygare
+Q102322869,Karl Gustaf Johan Mellin
+Q104550354,Carl Gustaf Lagermarck
+Q107978493,Alexander Etholén
+Q107978487,Karl Gustaf Brakel
+Q106224054,Gustaf Mauritz Helsingius
+Q105756269,Antti Waris
+Q103839739,Johan August Ferdinand Kuhlefelt
+Q107978476,Karl Gotthard Werner von Rehausen
+Q105069780,Kaarlo Ekberg
+Q105432176,Sakari Koli
+Q107751309,Edvard Robert Standertskjöld
+Q108122292,Johan Fredrik Vilhelm Standertskjöld
+Q104663900,Olof Henrik Helander
+Q104602803,Samuel Gottschick
+Q108122287,Maximilian von Rosenkampff
+Q106766146,Thorsten Brakel
+Q106967411,Carl Ragnar af Björkesten
+Q106323634,Vihtori Penttilä
+Q102436273,Fredrik Edgar Leonard Bronikowsky
+Q102046760,Knut Gustaf Åkesson
+Q105756267,Joonas Venäläinen
+Q104627325,Eric Borgström
+Q102057607,Klas Erik Järnefelt
+Q105751926,Erik Johan Stråhle
+Q102436312,Frans Joakim Torckell
+Q103893813,August Fredrik Järnefelt
+Q106989471,Karl Hjalmar Rosenbröijer
+Q107323176,Edgar Rafael Örnhjelm
+Q105454314,Lauri Vilho Laitinen
+Q101332637,Gustaf Edvard Lybeck
+Q105432236,Elias Lauko
+Q106319464,Zachris Valmari
+Q105629715,Vilhelm Pääkkönen
+Q107750239,Adolf Edvin Arppe
+Q105454349,Antti Laari
+Q105701552,Elias Rotberg
+Q105620551,Leander Olofsson
+Q104176927,Otto Ferdinand Hofdahl
+Q105350996,Jaakko Huhtanen
+Q104235951,Karl Fredrik Grönberg
+Q106239316,Carl Eugen Åberg
+Q100784583,Johan Alfred Nystén
+Q105701318,Carl Georg Rosenberg
+Q104007019,Gustaf Johan Järnefelt
+Q106811986,Elis Campbell Nicolas Furuhjelm
+Q100997944,Karl Oskar Fontell
+Q30223957,Peter van Aken
+Q17383064,Lauri Pelkonen
+Q106323484,Martti Kiuru
+Q107968776,Fredrik Wilhelm Hisinger
+Q108082117,Constantin von Fieandt
+Q105751952,Juho Sormunen
+Q105771896,Pekka Paganus
+Q106936586,Axel Johan Alfons Spåre
+Q104143753,Johan Punderus
+Q104631384,Henrik Granroth
+Q105620575,Paavo Nykänen
+Q105337286,Juhana Katina
+Q106224074,Abraham Petrelius
+Q105662969,Esaias Tykki
+Q105751922,Risto Summa
+Q104815713,Fredrik Nauklér
+Q105771895,Juhana Paganus
+Q105751967,Petter Sihvonen
+Q106481509,Pehr Emil af Forselles
+Q104413208,Berndt Gustaf Mellin
+Q107086199,Oscar Alexander von Nandelstadh
+Q104150518,Karl Jakob Helander
+Q104627343,Tuomas Tuomala
+Q108082107,Alexander Felix Carl Ekestubbe
+Q107797860,Fredrik Nordmann
+Q104995579,Aleksanteri Arvelin
+Q56403348,Adolf Juselius
+Q104549902,Henrik Gustaf von Knorring
+Q101583718,Karl August Schroderus
+Q107797800,Hugo Kasimir Nordenswan
+Q105645349,Antti Pullinen
+Q104631461,Antti Mongola
+Q104588856,Herman Höckert
+Q101558602,August Michael Schauman
+Q107918233,Fredrik Järnefelt
+Q65230522,Carl Anton Björnberg
+Q104172920,Nils Karl Elias Grotenfelt
+Q108067057,Johan Ulrik von Törne
+Q104143705,Nils af Ursin
+Q108082124,Fredrik Wilhelm Fraser
+Q107258244,Frans Axel Herman von Knorring
+Q105751898,Kustaa Aadolf Tervoinen
+Q107283213,Berndt Theodor Munck
+Q105751910,Juhana Taskinen
+Q107797659,Alexander Eugen Spåre
+Q104381600,Johan Gustaf Schatelowitz
+Q104588847,Olof Cederström
+Q105645248,Matti Reinikkala
+Q104143746,Anton Johan Thermén
+Q106241039,Robert Hartman
+Q102355451,Claes Robert Stenroth
+Q101592349,Gustaf Ferdinand Snellman
+Q104143749,Frans Henrik Bergroth
+Q104602790,Jacob Holmstén
+Q104549905,Daniel Mattens
+Q105069788,Edvard Grönroos
+Q104631415,Johan Kelhälä
+Q106272576,Carl Johan Sundman
+Q106239241,Johan Josef Stenbäck
+Q106319511,Axel Cronvall
+Q105337245,David Karppelin
+Q100988071,Karl Konstantin Fieandt
+Q23798909,Jöran Zadler
+Q105663122,Adolf Fredrik Simolin
+Q107968777,Karl Emil Blåfield
+Q104007039,Berndt Erik Konstantin Hildén
+Q105620614,Juho Poutiainen
+Q105629732,Heikki Punttala
+Q120177931,Henrik Hyllén
+Q106319470,Johan Wilhelm Samberg
+Q61103302,Eynar Thesleff
+Q106811980,Charles Emil af Frosterus
+Q101759185,Onni Tawaststjerna
+Q104995671,Antti Ahvenainen
+Q105337256,Israel Karvosenoja
+Q104622533,Henrik Riihimäki
+Q104631373,Gustaf Falck
+Q105751890,Heikki Toijala
+Q105454524,Tuomas Kuisma
+Q105771903,Jaakko Martola
+Q107172250,Adolf Ferdinand Spåre
+Q104995689,Pekka Ahokas
+Q120177852,Mikael Avellan
+Q107258246,Maunu Ossian af Heurlin
+Q101807788,Johan Oskar Terho
+Q105751946,Johan Staf
+Q107860706,Woldemar Gustaf Silfversvan
+Q105751943,Johan Starcke
+Q107337689,Carl von Schoultz
+Q107978472,Anders Georg Emil Munsterhjelm
+Q105337338,Juho Ikkala
+Q105069803,Kustaa Haali
+Q105432156,Juhana Konttinen
+Q105454506,Matti Kulkas
+Q105432265,Karl Hannus
+Q106240876,Albert Öberg
+Q100701345,August Herckman
+Q104622523,Henrik Kesti
+Q105771905,Erik Mattlar
+Q106967420,John Waldemar von Bonsdorff
+Q108043658,Viktor Leonhard af Forselles
+Q106319509,Konrad Dahlström
+Q108029576,Paul Wilhelm Jonas Edelheim
+Q105432371,Juho Fredrik Horelli
+Q109826726,Gustaf Georg Waldemar von Essen
+Q105771891,Karl Henrik Råbergh
+Q106240907,Karl Fredrik Walle
+Q105771901,Johan Mannstén
+Q104549857,Berndt Fredrik Finckenberg
+Q107860656,Georg Kasimir Ladau
+Q104007062,Ture Birger Wegelius
+Q105337243,Karl August Karlstedt
+Q105636268,Juho Pere
+Q105663134,Johan Simula
+Q107201208,Karl August Magnus Henrik Granfelt
+Q23769558,Josef Klovensich
+Q107172255,Axel de la Chapelle
+Q105751942,Erik Johan Stråhle
+Q106319466,Henrik Solin
+Q105620591,Juho Nikkarla
+Q101214375,August Artur Jusélius
+Q105045039,Petter Auvinen
+Q108003418,Karl Gustaf Spåre
+Q23731503,Jonas Peldan
+Q104602800,Samuel Backman
+Q106239253,Wilhelm Panelius
+Q101334101,Karl Arvid Nyberg
+Q105337332,Aapeli Häyrinen
+Q105337241,Heikki Kansanen
+Q105702519,Lauri Määttä
+Q105756262,Vilho Vitikkala
+Q107400155,Alexander Sebastian Ehrnrooth
+Q104550386,Erik Johan Örnhielm
+Q107012263,Hugo Johan Wilhelm Wadenstjerna
+Q119790486,Kristian Trapp
+Q105064076,Juho Heikki Filppula
+Q109826711,Nikolai Thesleff
+Q103979347,Karl Verner Rosendal
+Q106272578,Mikael Lindén
+Q106223979,Otto Reinhold Grönholm
+Q106223951,Adolf Albin Sopanen
+Q106967413,Birger Fredrik af Björkesten
+Q106766184,Hugo Edvard af Enehjelm
+Q106223970,Fredrik Reinhold Ehnberg
+Q101214405,Wilhelm Kaitila
+Q101333744,Frans Nordlund
+Q105064084,Juho Foudila
+Q108067058,Fridolin Stjernvall
+Q100800012,Juho Pitkänen
+Q104995705,Niilo Kosonen
+Q104995620,Juho Alastalo
+Q106817420,Gustaf Emil af Hällström
+Q106705868,Frans Gustaf von Winther
+Q104815701,Peter Snellman
+Q17382848,Paavo Nyrönen
+Q104627340,Juhana Himanen
+Q105620598,Robert Gustaf Niemi
+Q107337677,Johan Wladimir Furuhjelm
+Q104551840,Adolf Johan Lilliebrunn
+Q105432314,Paul Hendunen
+Q105337309,Henrik Johan Isotalo
+Q105701075,Aatami Tiilikainen
+Q107918040,Paul Hugo Sölfverarm
+Q105045048,Alfred Filip Danielson
+Q102182354,Lars Berndt Olsoni
+Q105432294,Kaarle Kustaa Hegerström
+Q104551807,Carl Vilhelm Torwigge
+Q101084745,Berndt Emil Hollmérus
+Q101332184,Gustaf Wilhelm Liukkonen
+Q104550304,Fredrik Segercrantz
+Q105337216,Juho Herman Jurva
+Q105920766,Aadolf Tikkanen
+Q101084739,Kristian Alfred Grahn
+Q105048330,Salomon Ek
+Q104995553,Pekka Anttonen
+Q105454545,Heikki Krook
+Q105432396,Elias Illi
+Q105432364,Iisakki Holmi
+Q106817475,Carl Georg Jägerhorn
+Q105946641,Anders Johan Molander
+Q106323495,Juhana Korhonen
+Q104143750,Karl Fredrik Munck
+Q104248045,Adolf Fredrik Sirén
+Q6218225,Adolf Törngren
+Q107172256,Georg Mauritz von Christierson
+Q108122302,Ernst Johan von Willebrand
+Q105351041,Anders Häggström
+Q105045041,Matti Auvinen
+Q106766182,Tom Hjalmar Carpelan
+Q107918200,Berndt Adolf Grönhagen
+Q104235956,Karl Vilhelm Spåre
+Q108043645,Johan Georg Agricola
+Q101423242,Johan Leonhard Pentzin
+Q104188739,Magnus Arvid Krabbe
+Q104007046,Axel Henning Krabbe
+Q104995593,Iisakki Arvo
+Q102046761,Axel Ålenius
+Q65229900,Bengt Laurikainen
+Q106239312,Carl Federley
+Q105064076,Juho Heikki Filppula
+Q109826711,Nikolai Thesleff
+Q103979347,Karl Verner Rosendal
+Q106272578,Mikael Lindén
+Q106223979,Otto Reinhold Grönholm
+Q106223951,Adolf Albin Sopanen
+Q107400151,Torsten Johan Aminoff
+Q105701085,Yrjö Adolf Taskinen
+Q105951049,Theodor Lindroth
+Q106223936,Adolf Fredrik Liljeros
+Q106224079,Herman Wahrman
+Q106323598,Matti Leino
+Q105620413,Kaarle Prusi
+Q106817475,Carl Georg Jägerhorn
+Q106323495,Juhana Korhonen
+Q105946641,Anders Johan Molander
+Q104143750,Karl Fredrik Munck
+Q17381619,Johan Erik Keto
+Q101184294,Gustaf Adolf Ingman
+Q104550386,Erik Johan Örnhielm
+Q104551788,Robert Magnus Brunow
+Q102182354,Lars Berndt Olsoni
+Q105045048,Alfred Filip Danielson
+Q107918042,Fredrik Willehad von Wendt
+Q106906821,Lars Knut Prytz
+Q102046756,Karl Wilén
+Q108122298,Nikolai Alexander Thesleff
+Q6218225,Adolf Törngren
+Q106342366,Johan Albert Kosk
+Q105086426,Pekka Hakulinen
+Q106766173,Rudolf Waldemar Munsterhjelm
+Q105701078,Heikki Ylinen
+Q104378411,Axel Fredrik Boije af Gennäs
+Q58073019,Karl Gustaf Berg
+Q105337240,David Kalli
+Q105351041,Anders Häggström
+Q105037590,Karl Johan Brännäs
+Q106766188,Jakob Bernhard Estlander
+Q104549865,Johan Anders Gyldenär
+Q106766144,August von Willebrand
+Q61104449,Antti Yrjönpoika Lyttraeus
+Q102322805,Karl Viktor Hjalmar af Forselles
+Q105069794,Johan Gabriel Gädda
+Q106936650,Viktor Nikolai Julius Thesleff
+Q28028856,Alexander Gustaf Walle
+Q106224047,Anders Gustaf Hamberg
+Q29419475,Elis Furuhjelm
+Q108043642,Oskar Leonard af Forselles
+Q100775517,Sven Rydenius
+Q105751963,Gustaf Adolf Silén
+Q104172923,Berndt Gustaf Emil Blåfield
+Q106224094,Johan Fredrik Gummerus
+Q107283219,Fredrik Walter Rosenlew
+Q107400160,Robert Johan Gustaf Gripenberg
+Q105708653,Axel Gabriel Lindgren
+Q105351030,Juhana Hyytiäinen
+Q6224449,Bartholdus Vhael
+Q104550083,Fredrik Ehrenmalm
+Q105620602,Tuomas Poutiainen
+Q105751916,Josef Söderman
+Q104721219,Frans Viktor Sandelin
+Q104551775,Georg Fredrik von Essen
+Q105756265,Karl Johan Winter
+Q106323596,Kaarle Langén-Laurila
+Q105337207,Juhana Samuel Junttila
+Q105432305,Karl Viktor Paasivirta
+Q105454409,Otto Edvard Könni
+Q100781825,Justin von Brochen
+Q104721213,Josef Österbladh
+Q107797669,Gustaf Mauritz von Essen
+Q106811996,Claes Edvin Godenhjelm
+Q107054990,Arvid Harald von Fieandt
+Q102172605,August Reinhold von Willebrand
+Q102667808,Carl Albert Ehrnrooth
+Q100964971,Hans Henrik Estlander
+Q106967415,Axel Waldemar af Björksten
+Q105662930,Antti Uotila
+Q106945190,Evert Viktor Wasastjerna
+Q106910213,Adolf Aminoff
+Q106879323,Gustaf Sigurd Gideon von Numers
+Q105064093,Olli Fredrik Eronen
+Q105432338,Jaakko Hirvelä
+Q105645284,Wasilei Ratinen
+Q104383015,Evert Vilhelm Bruncrona
+Q107797702,Oskar Adolf Järnefelt
+Q106239334,Robert Rissanen
+Q107018411,Alexander von Becker
+Q104376668,Karl Efraim Lilius
+Q105432248,Gustaf Viktor Eklund
+Q98116467,Karl Oskar Hynninen
+Q105069783,Elias August Tunkelo
+Q107978474,Julius Dominicus Pinello
+Q107918176,Alfred Henrik Balthasar Ehrenstolpe
+Q105751964,Pekka Siira
+Q105337186,Antti Kananen
+Q105470739,Hugo Kalima
+Q101592511,Maximilian Spåre
+Q104551815,Carl Johan Armfelt
+Q104550046,Lars Olof Prytz
+Q105663079,Matti Teräs-Rautila
+Q106967467,Lars Emil von Haartman
+Q20253194,Gustaf Tigerstedt
+Q106319489,Erik Wilhelm Savón
+Q104176916,Gustaf Svinhufvud
+Q105620577,Anders Nordling
+Q105943518,Pontus Ludvig Dahlman
+Q106896046,Johannes Alarik von Knorring
+Q106323636,Kaarle Juhana Peräntie
+Q105752133,Sipro Ryösä
+Q106239210,Alfred Hedman
+Q100799960,Matti E. Niemelä
+Q106490275,Victor Ludvig Alexander Falck
+Q105751977,Gustaf Wilhelm Sandell
+Q105956704,Johan Fredrik Ahlberg
+Q105756276,Eerikki Sassi
+Q105037599,Theodor Aschan
+Q104631447,Simo Uotila
+Q105756258,Juhana Ylönen
+Q106812004,August Fredrik Granfelt
+Q105045042,Georg Edgar Candelin
+Q101034212,Hugo Ferdinand Forss
+Q101069591,Fredrik Edvard Grönroos
+Q105337311,Tahvo Jaatinen
+Q105751954,Juho Anton Särkilahti
+Q102203709,Claes Leonard de la Chapelle
+Q104588882,Fredrik Ulrik Bernt Otto Stackelberg
+Q107405257,Claes Samuel Segerstråle
+Q108067071,Henrik Thomas Adlercreutz
+Q104815685,Teodor Natanael von Pfaler
+Q107968780,Theodor Ulrik af Forselles
+Q107283215,Carl Gustaf Munck
+Q107738934,Johan Henrik von Schrowe
+Q107400157,Lars Magnus Vladimir Glansenstierna
+Q104290665,Otto Vilhelm Ehrström
+Q104550089,Johan Fredrik von Willebrand
+Q107054983,Carl Gustaf Wilhelm von Christierson
+Q108003420,Karl Fredrik Sebastian von Schoultz
+Q107994313,Axel Gabriel Wilhelm Tawaststjerna
+Q105771906,Juhana Maunula
+Q106323607,Juho Heikki Lauste
+Q107018413,Artur Edvard von Bonsdorff
+Q105432357,Kaarlo Vilho Piintilä
+Q106989480,Hjalmar Frithiof Segercrantz
+Q102172709,Johan Frans Sahlberg
+Q105454450,Erik Johan Kännälä
+Q106766161,Arthur Reinhold von Essen
+Q106613413,Axel Björkenheim
+Q105037587,Juho Brusila
+Q106817325,Alexander Wilhelm af Heurlin
+Q76238419,Emil Lindsay von Julin
+Q106705866,Osma Alfred Schildt
+Q108029578,Johan Gustaf Wilhelm Brummer
+Q106323713,Magnus Björklund
+Q107172244,Gustaf Eckhard Maximilian af Enehjelm
+Q102172680,Reinhold Peter Nasacken
+Q104550011,Johan Tandefelt
+Q102436283,Karl Johan Alfred Björkstén
+Q104383018,Lars Henrik Gustaf Langenskjöld
+Q106239323,Frans August Törnroth
+Q104721229,Anders Gustaf Westerlund
+Q104551793,Daniel Erik Bosin
+Q105454580,Elias Krook
+Q105069785,Carl Gustaf Fredriksson
+Q107054987,Kurt Gustaf Edvard af Enehjelm
+Q105702515,Paavo Niskanen
+Q100784624,Theodor Leopold Eck
+Q107797664,Alexis Fredrik Stewen-Steinheil
+Q105045044,Adolf Natanael Colliander
+Q107978489,Edvard Waldemar von Christierson
+Q101243564,Sigfrid Kullhem
+Q105708660,Johan Niinelä
+Q105943514,Carl Gustaf Bergh
+Q108056305,Conrad Osvald Hjerta
+Q106967475,Johannes Wilhelm von Nandelstadh
+Q107337678,Robert Reinhold August Hedenberg
+Q106766166,Carl Rudolf Christer Schulman
+Q102250479,Knut Uno Axel Samuel von Troil
+Q104348769,Samuel Henrik Nordström
+Q106309490,Axel Grönlund
+Q105771899,Henrik Johan Malmgren
+Q108067084,Johan Gustaf Emil Segercrantz
+Q105943510,Petter Johan Hämäläinen
+Q108043649,Otto Gerhard af Schultén
+Q105432186,Kaarle Konsti
+Q106936698,Ivar August Wahren
+Q105337197,Matti Junnola
+Q106907163,Johan Pihlman
+Q106309485,Juho Aatami Pelkonen
+Q104602796,Henrik Sovelius
+Q103505754,Gustaf Alfred af Hällström
+Q105337196,Simo Joutsiniemi
+Q27069016,Magnus Fredrik Clementeoff
+Q107860633,Karl Allan Knut Schulman
+Q108003408,Fredrik Nikolai Onni Theodor von Zansen
+Q102182397,Axel Gabriel af Björksten
+Q20736803,J. G. von Schrowe
+Q104143737,Johan Alfred af Björksten
+Q87711793,Mauritz Ferdinand von Kothen
+Q104995643,Juhana Heikki Ala-Hanho
+Q105620588,Enok Nohteri
+Q105701492,Johan Erik Rosenberg
+Q17383657,Gabriel Saarenpää
+Q106967469,Magnus Mikael von Kothen
+Q106272574,Fredrik Jansson
+Q104551835,Henrik Johan Kuhlefelt
+Q105946638,Carl W. Savander
+Q107018373,Oskar Guido Tapio Aminoff
+Q105432376,Antti Juhana Horttanainen
+Q105752135,Claes Johan Stenroth
+Q105953037,Carl Wilhelm Franck
+Q108122309,Blechard Gustaf Jägerhorn
+Q101333226,Johan Robert Hugo Nordenswan
+Q51136666,Woldemar Hackman
+Q107069600,Georg Carl Fridolf Kuhlefelt
+Q100799906,Anders Prytz
+Q106319501,Axel Holmberg
+Q106239274,
+Q106240914,Carl Fredrik Tojkander
+Q108003416,Johan Wilhelm Stjernschantz
+Q107405259,Wilhelm Thesleff
+Q108122296,Curt Gustaf Stjernvall
+Q106766171,Johan Axel Erik Silfverhjelm
+Q104550277,Adam Teodor Langenskiöld
+Q105629998,Juho Pietiläinen
+Q105771900,Elias Mankki
+Q106239269,Ferdinand Lojander
+Q104084588,Zachris Castrén
+Q100923107,Gabriel Wilhelm Cadenius
+Q107968786,Gustaf Albin Wasastjerna
+Q107172249,Berndt Adam Emil von Schantz
+Q104920129,August Bergenstråhle
+Q20379163,Johan Fredrik Lundenius
+Q107750283,Fredrik Frithiof Maximilian Gottlieb von Zansen
+Q105946628,Samuel Johan Vesander
+Q106967472,Karl Otto Reinhold Ladau
+Q104235965,Albert Heikel
+Q104235976,Karl Fredrik von Born
+Q106323599,August Kristian Lemström
+Q106241049,Alfred Burman
+Q85986829,Gustaf Vilhelm Arthur Armfelt
+Q54834023,Axel Alfthan
+Q104550289,Gustaf af Stenhoff
+Q102322728,Evold Oskar Alexander Kuhlefelt
+Q56403648,Knut Svanljung
+Q105454333,Karl Gustaf Lagerström
+Q104383009,Axel Gustaf August Pamfelt
+Q104721221,Petter Gustaf Hällfors
+Q105037569,Karl Johan Bonde
+Q105432343,Elias Hirvonen
+Q105337292,Heikki Kauranen
+Q103893763,Viktor Laurentius Helander
+Q105953045,Matti Paajanen
+Q103893927,Edvin Gideon Wasastjerna
+Q106817448,Nils Adolf Lindsay von Julin
+Q106323494,Juhana Koponen
+Q106766179,Johan Wilhelm Brummer
+Q107337649,Georg Mauritz von Essen
+Q108067079,Karl Magnus Mikael Walleen
+Q106224091,Karl Johan Boström
+Q102057592,Artur Emil Vilhelm Klinckowström
+Q101038653,Knut Gustaf Victor Furuhjelm
+Q108043647,August Leonidas Tawast
+Q105645318,Aappo Rantaniemi
+Q100988079,Johan August Florin
+Q102076980,Abdon Alfred Fredrik Lindberg
+Q17380646,Mikko Heikura
+Q107978466,Axel Gustaf Mellin
+Q105751906,Kaarle Henrik Teittinen
+Q106888823,Reinhold Ernst Petter Jägerhorn
+Q107258245,Georg Emil Lindsay von Julin
+Q104815711,Johan Alarik Roos
+Q107978496,Emil Fabian Mauritz von Kothen
+Q23761422,Simon Wilhelm Nylander
+Q105636276,Gabriel Paunonen
+Q106932821,Johan Viktor Segerstråle
+Q104550266,Fabian af Enehjelm
+Q106342362,Juho Heikki Jokinen
+Q105620544,Karl Anshelm Packalén
+Q104627607,Elias Hintsa
+Q106919253,Ernst Viktor von Rehausen
+Q105645218,Berndt Magnus Reinius
+Q106323663,Oscar Wilhelm Andstén
+Q104378293,Fredrik Aminoff
+Q100852046,Uno Otto Honka
+Q103841116,Karl Adolf Nordenskiöld
+Q28720778,Anders Lorenz Munsterhjelm
+Q106896017,Ludvig Hisinger-Jägerskiöld
+Q105636275,Georg Wilhelm Paunonen
+Q104551857,Henrik Robert Spåre
+Q104143752,Johan Fridolf Pipping
+Q105943516,Christian Edvard Boehm
+Q104920110,Axel Fredrik Adolf von Christierson
+Q102436300,Jarl August Hagelstam
+Q105756260,Juho Wähälä
+Q105064090,Frans Ekqvist
+Q101069594,Aleksanteri Gummerus
+Q106309501,Johan Fredrik Kerttula
+Q104550039,Kristian Adolf Verner von Rehausen
+Q105454393,Oskar Aleksander Laakso
+Q105337228,Pekka Kakkinen
+Q107012257,Axel Leonard von Weissenberg
+Q107323184,Fredrik Kristoffer Tawast
+Q104348657,Nils Anders Gadolin
+Q107738931,Adolf Theodor Rosenbröijer
+Q107054992,Edvard Ananias af Forselles
+Q123232477,Yrjö Antinpoika Lyttraeus
+Q106272565,Theodor Frosterus
+Q62392285,Fridolf Linder
+Q106319506,Atle Genetz
+Q104549861,Karl Arvid Krabbe
+Q106812011,Aarne Gripenberg
+Q106932799,Arvid Michael af Schultén
+Q108029581,Viktor Emil von Bonsdorff
+Q105337220,Kalle Juvonen
+Q100799795,Arnold Melcher Berger
+Q102322770,Gustaf Fritiof Utter
+Q107054972,Carl August Wilhelm Cederholm
+Q105645334,Viktor Vilhelm Raipala
+Q101034227,August Johan Frosterus
+Q104235973,Claes Gustaf Beyrath
+Q105454281,Matti Lakari
+Q102667659,Julius Fredrik Gadd
+Q104550228,Fredrik August von Zansen
+Q107994311,Hjalmar Filip Palmén
+Q106773908,Carl Wilhelm Daniel von Fieandt
+Q11858511,Ernst Roini
+Q106906800,Alexander Gabriel Lagus
+Q85986394,Henrik Tomas Adlercreutz
+Q107738924,Alexander von Knorring
+Q107323187,Rabbe Wladimir Wrede
+Q107400164,Mauritz Fridolf Hisinger
+Q106224110,Albert Schogster
+Q104048299,Ernst Emil Vilhelm Wärnhjelm
+Q107968778,Karl Anders Herman Boije af Gennäs
+Q104550197,Carl Anton Broberger
+Q17383294,Juho Riihimäki
+Q107439749,Carl Eugen Armfelt
+Q104551874,Claes Uggla
+Q106812017,Tor Nils Adolf Grotenfelt
+Q108122307,Alfons Jerôme von Haartman
+Q28356840,Eero Hyvärinen
+Q69468961,Albert Ferdinand Ottelin
+Q107860644,Alfred Edgar Wasastjerna
+Q17380063,Kaarlo Johan Blomstedt
+Q106773940,Gustaf Johan Reinhold Cedercreutz
+Q106239250,Juho Pelkonen
+Q106811961,Carl Anton Reinhold Ludvig Cronstedt
+Q107968788,Karl Alexander Napoleon Tigerstedt
+Q106309495,Albert Lindh
+Q105701087,Taavetti Suo-Anttila
+Q106319465,August Emil Konstantin Tötterman
+Q103337992,Anders Oskar Törnudd
+Q56879979,Petter Stenhagen
+Q23870436,August Bade
+Q104145197,Karl Leonard Schulman
+Q107323185,John Axel Henrik Wahren
+Q106239284,Richard Heimberger
+Q104376666,Fredrik Ernst Gottlieb von Zansen
+Q104376663,Karl Ludvig von Zansen
+Q104383016,Otto Robert Claes Gustaf von Gertten
+Q106895983,Krister Robert Otto Edgar Jägerskiöld
+Q100258348,Herman Snellman
+Q107069595,Georg Viktor Berndt von Haartman
+Q107860636,Georg Otto Segerstråle
+Q104845228,Johannes Ilmanen
+Q97577422,Johan Teodor Durchman
+Q108043660,Fredrik af Forselles
+Q56061835,Herman Viktor von Willebrand
+Q106945193,Uno Alfons Wasastjerna
+Q101759019,Johan Axel Tammelander
+Q104549953,Henrik Johan von Knorring
+Q17383421,Reinhold Johan Rehbinder
+Q104235968,Axel Emanuel Berner
+Q103839737,Oskar Reinhold Vilhelm von Konow
+Q99600914,Fredrik Wilhelm Thesleff
+Q106323650,Aappo Walta
+Q107006388,Hjalmar Edvard Tawast
+Q110322285,Carl August Reinhold Lars Armfelt
+Q107750271,Alexander von Etter
+Q104550322,Anton Wilhelm von Schantz
+Q105432279,Sanfrid Hasselqvist
+Q107069605,Gustaf Elis Ferdinand Kuhlefelt
+Q107798065,Karl Johan Agaton von Numers
+Q5413257,Ernesti Eemil Forsman
+Q17380231,Gottfrid von Falkenberg
+Q100272570,Aleksanteri Vihonen
+Q61103177,Eljas Lönnrot
+Q105037578,Juho Palomaa
+Q107918278,Frans Egenolf Eugen von Knorring
+Q104578164,Axel Reinhold Cedercreutz
+Q56399134,Feodor Kiseleff
+Q106896031,Adolf Ferdinand von Konow
+Q59656522,Matias Putkonen
+Q107860638,Axel Oskar Achates Standertskjöld
+Q107337647,Edvard Bergenheim
+Q17380726,Herman Hellén
+Q11857435,Elis Bergroth
+Q106239204,Robert Junnelius
+Q101084746,Axel August Hårdh
+Q104550153,Jakob af Forselles
+Q98414082,August Vilhelm Helsingius
+Q103841123,Johan August Lindelöf
+Q23785269,Karl Johan Fagerström
+Q106906807,August Carl Adam Lagermarck
+Q105756272,Georg Leopold Topelius
+Q20251351,Frans Fredrik Björni
+Q100323030,Fredrik Hellman
+Q17383568,Emanuel Saloheimo
+Q106613391,Otto Karl Hjalmar Schulman
+Q107978479,Robert Severin af Björksten
+Q106773917,Carl Axel Birger af Forselles
+Q106967465,Carl August Gabriel von Haartman
+Q56521046,Gustaf Leopold Söderström
+Q101558683,Viktor Jedidjah Alfred Roos
+Q101558567,Berndt Gustaf Knut Björn Waldemar Schauman
+Q107750220,Adolf Kasimir Aminoff
+Q108067061,Henrik Johan Standertskjöld
+Q11851990,Anton Lilius
+Q104150529,Karl Magnus Holm
+Q106323625,Erik Nygård
+Q5391954,Herman Ross
+Q107086197,Henrik Josef Gustaf Mechelin
+Q4235999,Gustaf Axel von Kothen
+Q108003411,Karl Johan Vilhelm Wadenstjerna
+Q106223945,Adolf Wilhelm von Zweygberg
+Q100781243,Isak August Björklund
+Q30216290,Johan Solitander
+Q107968781,Carl August Edvard Gripenberg
+Q107323177,Karl Max Werner Schulman
+Q89430343,Anders Byström
+Q74020569,Frans Julius Cederman
+Q4356483,Lorenz Lindelöf
+Q85986322,Karl Gustaf Werander
+Q16166765,Aksel Emil Brander
+Q108082048,Adolf Vilhelm Boije af Gennäs
+Q110322241,Theodor Bruun
+Q104246707,Krister Ludvig Reinhold Jägerskiöld
+Q104084619,Henrik August Wrede
+Q17380724,Harald Wilhelm von Hellens
+Q107918125,Hjalmar Erik Gabriel von Bonsdorff
+Q104550164,Bernt Fredrik von Konow
+Q104145190,Elias Malakias Rosengren
+Q108146073,Johan Emil von Konow
+Q100257960,Ivar Markus Tallgren
+Q106967426,Alexander Kasimir Ehrnrooth
+Q5473885,Ernst Dahlström
+Q11860382,Georg von Winther
+Q104551848,Fredrik Adolf Ramsay
+Q107337643,Ivan Alexander Aminoff
+Q11902249,Walter Parviainen
+Q104588874,August Filip Armfelt
+Q11860222,G. A. Heman
+Q65229155,Alexander Cronhjelm
+Q17383027,Matthias Pazelius
+Q55229314,Björn Rudolf Wasastjerna
+Q107054977,Carl Osvald de la Chapelle
+Q16168683,Axel Cederberg
+Q100784211,Otto Immanuel Appelberg
+Q107201216,Alfred Michael von Haartman
+Q4357135,Robert Lagerborg
+Q107337682,Knut Johan Robert Lagus
+Q17380286,Nils Fredensköld
+Q107750242,Knut Adolf Boije af Gennäs
+Q102291355,Gustaf Oskar Teodor Nordström
+Q108067073,Magnus Fredrik Tandefelt
+Q107283217,Evert Magnus Ridderstad
+Q107750236,Mauritz Wladimir Armfelt
+Q6232470,Antero Warelius
+Q100272554,Knut Anthoni
+Q6173024,Johannes Serlachius
+Q107337690,Knut Albert Segerstråle
+Q11860795,Gustaf Fredrik Rotkirch
+Q37140464,Carl Wilhelm Ignatius Sundman
+Q104551827,Berndt Henrik Aminoff
+Q64027481,Carl Adolf Möllerswärd
+Q107172252,Henrik Carl Axel Standertskjöld
+Q6079654,Johan Wilhelm Rosenborg
+Q106773933,Emil Waldemar Cedercreutz
+Q107337650,Carl Theodor von Frenckell
+Q17381716,Pehr Klockars
+Q106967421,Gustaf Filip Creutz
+Q101063791,Arvid Thorsten Birger Genetz
+Q4355896,Jaakko Forsman
+Q98021802,Reinhold Alexander von Willebrand
+Q102267270,Göran Erik Axel Silfverhjelm
+Q106989485,Henrik Carl Gustaf August Standertskjöld
+Q98116426,Carl Gustaf Sanmark
+Q17383887,Gustaf Johan Silfversvan
+Q104145188,Karl Viktor de la Chapelle
+Q60844768,Frans Arvid Snellman
+Q11860772,Gustaf Adolf Lindblom
+Q104172926,Karl Johan Oskar von Numers
+Q104211818,Carl Magnus Mauritz Armfelt
+Q11860045,Fredrik Sundwall
+Q108056307,Gustaf Magnus Leonard Jägerskiöld
+Q42901672,Jakob Johan Tesche
+Q17380412,Juho Haanpää
+Q17382895,Erkki Peltonen
+Q108122304,Vilhelm Otto Casper David Wrede
+Q17383673,Uno Alfons Saxén
+Q107012252,August Henrik Uno Wrede
+Q20800316,Valtiopäivämies Johan Ulrik Winberg
+Q17382704,Kaarle Ojanen
+Q104550447,Nils Jonas Gammal Ehrencrona
+Q56856392,Michael Hisinger
+Q23698991,Axel Henrik Antell
+Q11887819,Petter Johan von Zweigberg
+Q11852900,Artur Hammarström
+Q11849787,Adolf Edvard Björkenheim
+Q104549831,Karl Gustaf Creutz
+Q55395966,Tauno Järnefelt
+Q11850796,Alexis von Kræmer
+Q104551880,Otto Christer Boije af Gennäs
+Q26711443,Johannes Forsskål
+Q20251380,Axel Fredrik Nikolaus Cedercreutz
+Q6067104,Gabriel Rein
+Q61968815,Karl Oskar Wasastjerna
+Q5955067,Uno Lindelöf
+Q6030815,Carl Gustaf Ottelin
+Q5438635,Johan Albert Edvard von Julin
+Q5547802,Magnus Jacob Alopaeus
+Q11860812,Gustaf Robert Ehrnrooth
+Q4103286,Heikki Heikinpoika Vaanila
+Q1661801,Felix von Willebrand
+Q62128099,August Mannerheim
+Q11868577,K. G. Göös
+Q26244676,Lennart Fritiof Munck af Fulkila
+Q11853366,August Magnus Gustaf Armfelt
+Q6033612,E. G. Palmén
+Q11872368,Konrad ReijoWaara
+Q6080124,G. G. Rosenqvist
+Q6228650,Ferdinand von Wahlberg
