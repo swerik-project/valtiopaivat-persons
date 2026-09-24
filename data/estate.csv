@@ -1,0 +1,5 @@
+estate_id,name_en,name_fi,name_se,speaker_alias_en,speaker_alias_se,speaker_alias_fi
+es-nob,Nobility,Aateli,Adel,Lord Marshal,Lantmarskalk,Maamarsalkka
+es-cle,Clergy,Papisto,Präster,Archbishop,Ärkebiskop,Arkkipiispa
+es-bou,Bourgeoisie,Porvaristo,Borgare,Speaker,Talman,Puhemies
+es-pes,Peasants,Talonpojat,Bönder,Speaker,Talman,Puhemies
